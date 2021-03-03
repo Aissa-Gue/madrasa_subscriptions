@@ -1,0 +1,28 @@
+.my_nav_bg{
+    /* background-color: darkslateblue; */
+    background-color: teal;
+}
+
+.background_img_login {
+    background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(224, 255, 245, 0.9)),
+    url(../img/cover.jpg) center / cover no-repeat fixed;
+    height: 100vh;
+}
+
+.my_fluid{
+    width: 100vw;
+    height: 20vh;
+}
+
+.my_radious{
+    border-radius: 15px;
+}
+
+.my_form_bg{
+    background-color: rgba(255, 255, 255, 0.8)
+}
+
+body{
+    font-family: 'Cairo', sans-serif;
+    background-color: snow;
+}
